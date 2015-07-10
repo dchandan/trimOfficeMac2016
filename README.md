@@ -6,6 +6,8 @@ is a very bloated distribution. A lot of the bloat is due
 to language files and duplicates for font directory and
 profiling tools between the apps. 
 
+***Run this script with sudo privileges***
+
 #### Size of distribution after fresh install:
 
 | App        | Size           |
